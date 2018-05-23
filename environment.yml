@@ -97,5 +97,4 @@ dependencies:
   - xz=5.2.3=h727817e_4
   - zeromq=4.2.5=h378b8a2_0
   - zlib=1.2.11=hf3cbc9b_2
-prefix: /Users/arminzaugg/anaconda3/envs/py35
 
