@@ -8,7 +8,6 @@ dependencies:
   - certifi
   - openssl
   - traittypes
-  - appnope
   - backcall
   - bleach
   - cycler
